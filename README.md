@@ -10,3 +10,4 @@ I'm one of the UI/UX Developer working at this project.
 <img src="ScreenShots\MainPage.png" style="height:500px;width:auto;"/>
 
 <h4>2.Result Page</h4>
+<img src="ScreenShots\result.png" style="height:500px;width:auto;"/>
