@@ -3,3 +3,4 @@ This is a basic model of SRM search engine, created using django. Till now I hav
 
 <h3>About Me</h3>
 I'm <b>Anindya Das</b>, studying at SRMIST. I'm pursuing BTech in CSE.
+I'm one of the UI/UX Developer working at this project. 
