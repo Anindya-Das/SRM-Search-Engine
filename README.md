@@ -11,3 +11,4 @@ I'm one of the UI/UX Developer working at this project.
 
 <h4>2.Result Page</h4>
 <img src="ScreenShots\result.png" style="height:500px;width:auto;border-style: solid;"/>
+<b>NOTE:</b>The result page is not yet added to the main django file.
