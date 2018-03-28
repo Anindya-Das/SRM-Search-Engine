@@ -7,7 +7,7 @@ I'm one of the UI/UX Developer working at this project.
 
 <h2>ScreenShots</h2>
 <h4>1.Main Page</h4>
-<img src="ScreenShots\MainPage.png" style="height:500px;width:auto;border:10px solid black;"/>
+<img src="ScreenShots\MainPage.png" style="height:500px;width:auto;border-style: solid;"/>
 
 <h4>2.Result Page</h4>
-<img src="ScreenShots\result.png" style="height:500px;width:auto;border:10px solid black;"/>
+<img src="ScreenShots\result.png" style="height:500px;width:auto;border-style: solid;"/>
