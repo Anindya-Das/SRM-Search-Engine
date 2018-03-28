@@ -6,4 +6,4 @@ I'm <b>Anindya Das</b>, studying at SRMIST. I'm pursuing BTech in CSE.
 I'm one of the UI/UX Developer working at this project. 
 
 <h2>ScreenShots</h2>
-<img src="ScreenShot\MainPage.png" style="height:500px;width:auto;"/>
+<img src="ScreenShots\MainPage.png" style="height:500px;width:auto;"/>
