@@ -1,0 +1,61 @@
+.top_bar{
+	top:0;
+	position:fixed;
+	height:90px;
+	width:100%;
+	background-color:gray;
+}
+.icon{
+	height:40px;
+	width:80px;
+	margin:10px;
+	margin-top:12px;
+	margin-left:20px;
+	cursor:pointer;
+	float:left;
+}
+.box{
+	height:45px;
+	width:80%;
+	margin-top:18px;
+	margin-left:-90px;
+	float:left;
+	font-size:25px;
+}
+.btn{
+	height:45px;
+	width:50px;
+	margin-top:17px;
+}
+.btn:hover{
+	background-color:#C0C0C0;
+}
+.down{
+	height:12px;
+	width:50%;
+	margin-top:-7px;
+	margin-left:150px;
+}
+.down a{
+	color:black;
+	font-size:15px;
+	margin:5px;
+	text-decoration:none;
+}
+.down a:hover{
+	color:blue;
+}
+
+.result{
+	height:100px;
+	margin-top:20px;
+	margin-left:27px;
+	width:65%;
+	padding-top:5px;
+	overflow:hidden;	
+}
+
+.result a{
+	font-size:20px;
+	color:blue;
+}
